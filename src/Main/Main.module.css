@@ -1,0 +1,30 @@
+.header {
+	display: flex;
+	justify-content: center;
+	min-height: 100vh;
+	background-color: olive;
+}
+
+.block {
+
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;
+	width: 80%;
+
+}
+
+.greeting {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+
+
+.photo {
+	background-color: azure;
+	width: 300px;
+	height: 400px;
+}
+

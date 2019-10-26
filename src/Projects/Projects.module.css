@@ -1,0 +1,25 @@
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: cadetblue;
+}
+
+.top {
+	height: 60px;
+	border: 1px solid;
+	text-align: center;
+
+}
+
+.block {
+	width: 80%;
+}
+
+.projects {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	border: 1px solid;
+}

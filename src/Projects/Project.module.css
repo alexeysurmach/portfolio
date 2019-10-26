@@ -1,0 +1,40 @@
+.project {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border: 1px solid;
+	width: 600px;
+
+}
+
+.projectTitle {
+
+}
+
+.projectDescription {
+	font-size: larger;
+	padding: 20px;
+	background-color: darkorange;
+	border: 1px solid;
+	width: max-content;
+
+}
+
+.picture {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: darkgrey;
+	border: 1px solid;
+	height: 550px;
+	width: 100%;
+
+}
+
+.button {
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));
+	width: 200px;
+	height: 50px;
+	font-size: large;
+}

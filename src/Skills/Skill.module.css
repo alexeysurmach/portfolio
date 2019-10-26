@@ -1,0 +1,21 @@
+.image {
+	background-color: ivory;
+	border: 1px solid;
+	height: 160px;
+	width: 200px;
+}
+
+.skill {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border: 1px solid;
+	width: 350px;
+}
+
+
+.skillTitle{
+	padding: 20px;
+	font-size: medium;
+	background-color: dodgerblue;
+}
