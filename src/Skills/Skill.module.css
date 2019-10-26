@@ -18,4 +18,5 @@
 	padding: 20px;
 	font-size: medium;
 	background-color: dodgerblue;
+	min-height: auto;
 }
