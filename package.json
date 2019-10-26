@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://alexeysurmach.github.io/portfolio/",
   "dependencies": {
+    "deploy": "^1.0.3",
     "gh-pages": "^2.1.1",
     "pages": "^0.0.16",
     "react": "^16.11.0",
